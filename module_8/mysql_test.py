@@ -4,7 +4,7 @@ from mysql.connector import errorcode
 config = {
     "user": "pysport_user",
     "password": "yousuck",
-    "host": "123.0.0.1",
+    "host": "127.0.0.1",
     "raise_on_warnings": True
 }
 
